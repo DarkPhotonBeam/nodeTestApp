@@ -1,0 +1,8 @@
+
+.idea/.gitignore
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/testapp.iml
+package.json
+node_modules/
